@@ -1,0 +1,1062 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rules for conversation, or A collection of moral maxims and reflections. By a Roman Catholick</title>
+            <author>Roman Catholick.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 56 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57878</idno>
+            <idno type="STC">Wing R2254</idno>
+            <idno type="STC">ESTC R218492</idno>
+            <idno type="EEBO-CITATION">99830078</idno>
+            <idno type="PROQUEST">99830078</idno>
+            <idno type="VID">34527</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57878)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34527)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2018:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rules for conversation, or A collection of moral maxims and reflections. By a Roman Catholick</title>
+                  <author>Roman Catholick.</author>
+               </titleStmt>
+               <extent>[8], 103, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J. Eaglesfield, at the Marigold over against the Globe-Tavern in Fleet-Street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on pg. 1: A collection of moral maxims and reflections.</note>
+                  <note>Title page preceeded by an advertisment page.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conversation --  Early works to 1800.</term>
+               <term>Maxims --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34527:1"/>
+            <p>RULES FOR CONVERSATION, OR <hi>A Collection</hi> Of Moral Maxims and Reflections.</p>
+            <p>By a <hi>Roman Catholick.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Eaglesfield,</hi> at the <hi>Mari<g ref="char:EOLhyphen"/>gold</hi> over againſt the <hi>Globe-Tavern</hi> in <hi>Fleet-Street.</hi> 1686.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:34527:2"/>
+            <head>ADVERTISEMENTS.</head>
+            <p>THere is newly publiſhed a <hi>Farce</hi> (as it hath been Play'd before the King and Queen) called <hi>The Devil of a Wife, or a Comical Transforma<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>As alſo Rules for <hi>Converſation</hi> or a <hi>Collection</hi> of Moral <hi>Maxims</hi> and <hi>Re<g ref="char:EOLhyphen"/>flections.</hi>
+            </p>
+            <p>Likewiſe <hi>a new Book Entituled</hi> Latine Songs with their Engliſh, and Poems; (<hi>Chevy-Chace</hi> turn'd into Latine by Order of the Biſhop of <hi>London</hi>) By <hi>Henry Bold</hi> formerly of <hi>N. Coll.</hi> in <hi>Oxon,</hi> afterwards of the <hi>Examiners Of<g ref="char:EOLhyphen"/>fice</hi> in <hi>Chancery.</hi> Theſe Printed for <hi>John Eaglesfield</hi> Bookſeller at the <hi>Ma<g ref="char:EOLhyphen"/>rigold</hi> near <hi>Salisbury-Court</hi> in <hi>Fleet<g ref="char:EOLhyphen"/>ſtreet.</hi>
+            </p>
+            <pb facs="tcp:34527:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:34527:3" rendition="simple:additions"/>
+            <pb facs="tcp:34527:3"/>
+            <head>THE EPISTLE TO THE READER.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>THE following Obſerva<g ref="char:EOLhyphen"/>tions are moſt of them cer<g ref="char:EOLhyphen"/>tain Rules and Axioms which diverſe great good Men have u<g ref="char:EOLhyphen"/>ſed in their Converſations to their no ſmall honour and advantage, and they may be of the ſame uſe to thee, if well digeſted and with Prudence reduced to practiſe; They are true, and a ſmall Expe<g ref="char:EOLhyphen"/>rience
+<pb facs="tcp:34527:4"/>will tell you ſo; The more thoughts you ſpend on each parti<g ref="char:EOLhyphen"/>cular, the better wilt thou like them; for my own part, I fear no Cenſure of the Book or its Author, ſince I am reſolved not to be known, Judg as thou pleaſeſt, perhaps thou mayeſt have Read ſeveral of them where I did, I think it no criminal theft to write what hath been written, though the Author be not Named, for that which I approve is my own in ſuch caſe, be<g ref="char:EOLhyphen"/>ſides I make no claim, the greater Number are a Collection as the Title ſpeaks, however of this I am ſure, they all are or may be uſeful, ſome of them are Common and ob<g ref="char:EOLhyphen"/>vious,
+<pb facs="tcp:34527:4"/>yet the advantage of con<g ref="char:EOLhyphen"/>ſidering and uſing them, may ne<g ref="char:EOLhyphen"/>ver be the leſs, others may ſeem a<g ref="char:EOLhyphen"/>like and to the ſame purpoſe, but on Second thoughts they'l yeild different Precepts, Others may ſeem contradictory, but if reduced to particulars for uſe they'l appear otherwiſe; There may be many more added and much more Material, but <hi>nihil ſimul inceptum eſt &amp; perfectum,</hi> and time perhaps may increaſe the number of theſe, In the Interim take what follows, they being firſt Collected for pri<g ref="char:EOLhyphen"/>vate uſe, are now Publiſhed for the <hi>Bookſellers</hi> Benefitand Thine, which if attained, I am Content.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:34527:5"/>
+            <pb n="1" facs="tcp:34527:5"/>
+            <head>A COLLECTION OF Moral <hi>Maxims</hi> and <hi>Re<g ref="char:EOLhyphen"/>flections.</hi>
+            </head>
+            <p n="1">
+               <label>I.</label> NO Man is ever ſo Happy or ſo Miſerable, in this Life, as he does Imagine himſelf to be.</p>
+            <p n="2">
+               <label>II.</label> The Happineſs and Miſery of Men, depends as much on their Humour and the temper of their Mind, as on their Fortune and Condition in the World.</p>
+            <pb n="2" facs="tcp:34527:6"/>
+            <p n="3">
+               <label>III.</label> Always put more confidence in thoſe who have obliged you, then in thoſe that you have obliged, for the former are more likely to do you a further kindneſs, then the latter, to acknowledg or requite what they have received.</p>
+            <p n="4">
+               <label>IV.</label> The contempt of Riches in the Phi<g ref="char:EOLhyphen"/>loſophers was only a ſecret to prevent that contempt which attends Povertie.</p>
+            <p n="5">
+               <label>V.</label> He that councels others to be Vir<g ref="char:EOLhyphen"/>tuous, doubles his obligation to be ſo Himſelf.</p>
+            <p n="6">
+               <label>VI.</label> By trifles are the qualities of Men as well diſcovered as by great Actions, for in the latter they are many times ſtrain<g ref="char:EOLhyphen"/>ed,
+<pb n="3" facs="tcp:34527:6"/>and in the former more Natural.</p>
+            <p n="7">
+               <label>VII.</label> A Generous Man leaſt regards Mony, but when he hath it not, he wants it moſt.</p>
+            <p n="8">
+               <label>VIII.</label> In any great Action, he that will be his own Counceller, ſhall be ſure to have a Fool for his Clyent.</p>
+            <p n="9">
+               <label>IX.</label> Nothing is of more Importance in all a Mans Behaviour, then to know how to take an advantage when offer<g ref="char:EOLhyphen"/>ed</p>
+            <p n="10">
+               <label>X.</label> He that Winks at his own Faults thinks all the World Blind.</p>
+            <p n="11">
+               <label>XI.</label> What you are to do, adviſe with ma<g ref="char:EOLhyphen"/>ny,
+<pb n="4" facs="tcp:34527:7"/>what you are reſolved to do com<g ref="char:EOLhyphen"/>municate but to few.</p>
+            <p n="12">
+               <label>XII.</label> No Man in Prudence will threaten when he hath any thing to Deſire.</p>
+            <p n="13">
+               <label>XIII.</label> When a Man is compelled to do an Act, 'tis moſt commonly beſt for him to ſeem to do it Frankly and without Con<g ref="char:EOLhyphen"/>ſtraint.</p>
+            <p n="14">
+               <label>XIV.</label> He that will improve his Memory muſt not too much diſtruſt it.</p>
+            <p n="15">
+               <label>XV.</label> To be a Judge of Neighbours Differen<g ref="char:EOLhyphen"/>ces, is dangerous and always makes one or both Eenemies.</p>
+            <p n="16">
+               <label>XVI.</label> The readieſt way to be deceived is
+<pb n="5" facs="tcp:34527:7"/>for a Man to beleive himſelf more ſub<g ref="char:EOLhyphen"/>tile and clear ſighted then other Men.</p>
+            <p n="17">
+               <label>XVII.</label> Fancy and Chance lift moſt to Em<g ref="char:EOLhyphen"/>ployments.</p>
+            <p n="18">
+               <label>XVIII.</label> When Men Eminen and Worthy are preferred, their Fortune ſeems due and no Man Envys the payment of a debt.</p>
+            <p n="19">
+               <label>XIX.</label> Valour is a Quality which he that hath ſhall have leaſt need of.</p>
+            <p n="20">
+               <label>XX.</label> A Baſhful Man is not his own Maſ<g ref="char:EOLhyphen"/>ter.</p>
+            <p n="21">
+               <label>XXI.</label> He that will be ſafe in troubleſome times, muſt 1. Engage in no Faction,
+<pb n="6" facs="tcp:34527:8"/>and 2. Favour and releive the loweſt, for the firſt preſerves kindneſs with the preſent, and the ſecond prepares againſt the Future.</p>
+            <p n="22">
+               <label>XXII.</label> Such as have reſpect only to a few things are eaſily miſled.</p>
+            <p n="23">
+               <label>XXIII.</label> He that underſtands amiſs, concludes worſe.</p>
+            <p n="24">
+               <label>XXIV</label> He that will be truly Charitable, ſhould give to poor Houſe-keepers as do not receive Alms of the Pariſh, for to give to thoſe, is only to ſave ſo much Money to the Rich, who by Law are bound to releive the Poor.</p>
+            <p n="25">
+               <label>XXV.</label> Many glorious Actions that make a
+<pb n="7" facs="tcp:34527:8"/>noiſe in the World, as the Effects of a wiſe Deſign, are produced only by Hu<g ref="char:EOLhyphen"/>mour and Paſſion.</p>
+            <p n="26">
+               <label>XXVI.</label> We ſhould not take delight in obſer<g ref="char:EOLhyphen"/>ving the faults of others, if we had none of our own.</p>
+            <p n="27">
+               <label>XXVII.</label> We diſparage Eavourites and Men ad<g ref="char:EOLhyphen"/>vanced in the World, from Pride and Love of Favour, and the contempt we teſtifie againſt ſuch preferments, ſerves only to mitigate our own greif for not obtaining the like.</p>
+            <p n="28">
+               <label>XXVIII.</label> We have commonly more Strength then Will, and we imagine things im<g ref="char:EOLhyphen"/>poſſible as an excuſe to our ſelves for our own Lazineſs.</p>
+            <pb n="8" facs="tcp:34527:9"/>
+            <p n="29">
+               <label>XXIX.</label> What paſſeth for Sincerity in the World, is often-times but diſſimulation, to attract the Confidence of others.</p>
+            <p n="30">
+               <label>XXX.</label> Men blame the faults of others rather to perſwade of their own Innocence then with a real deſign of Reformation.</p>
+            <p n="31">
+               <label>XXXI.</label> Men diſcover an abhorrenge of Ly<g ref="char:EOLhyphen"/>ing, very often with a deſign to gain Credit to what they ſay themſelves, and Render their own Teſtimony the more Conſiderable.</p>
+            <p n="32">
+               <label>XXXII.</label> Proſperity makes us known to others, whether we are what we ſeem to be, &amp; Adverſity makes others known to us,
+<pb n="9" facs="tcp:34527:9"/>whether they are in reality what they ſeem in Profeſſion.</p>
+            <p n="33">
+               <label>XXXIII.</label> They who Addict themſelves to lit<g ref="char:EOLhyphen"/>tle things with too much Application are ſeldome capable of any grand under<g ref="char:EOLhyphen"/>taking.</p>
+            <p n="34">
+               <label>XXXIV.</label> He that begins an affair without Judgment and is haſty in the proſecu<g ref="char:EOLhyphen"/>tion, muſt not wonder if it want Suc<g ref="char:EOLhyphen"/>ceſs.</p>
+            <p n="35">
+               <label>XXXV.</label> He that is diſcouraged from a worthy deſign meerly upon the account of diffi<g ref="char:EOLhyphen"/>ty hath a mean Spirit.</p>
+            <p n="36">
+               <label>XXXVI.</label> Be Liberal to your Friends of your diſcourſe and your purſe, but beware of
+<pb n="10" facs="tcp:34527:10"/>being bound for more then you are willing to give, for he that is ſurely know's not what he is worth.</p>
+            <p n="37">
+               <label>XXXVII.</label> He that ſets his Mind and Affections on things ſuperſluous, is commonly re<g ref="char:EOLhyphen"/>duced to want thoſe which are neceſſa<g ref="char:EOLhyphen"/>ry.</p>
+            <p n="38">
+               <label>XXXVIII.</label> On many occaſions without ſcruple one may refuſe to promiſe, but in few or none without ſhame can he refuſe to performe.</p>
+            <p n="39">
+               <label>XXXIX.</label> He that is unwilling to pay what he owes when he hath it by him, ſhall live to be willing and not be able.</p>
+            <p n="40">
+               <label>XL.</label> Philoſophy can triumph over paſt
+<pb n="11" facs="tcp:34527:10"/>and future Calamities, but is Conquered by a preſent Evil.</p>
+            <p n="41">
+               <label>XLI.</label> The Refuſal of Commendation, is often-times, with a deſire to be Praiſed Twice.</p>
+            <p n="42">
+               <label>XLII.</label> Few Men Praiſe others but with ſome exception, and ordinarily with a deſign to be Praiſed themſelves.</p>
+            <p n="43">
+               <label>XLIII.</label> No Man is ſo eaſily deceived and im<g ref="char:EOLhyphen"/>poſed upon, as when he thinks to de<g ref="char:EOLhyphen"/>ceive others.</p>
+            <p n="44">
+               <label>XLIV.</label> He that talks more then cometh to his ſhare, and with Confidence and Paſ<g ref="char:EOLhyphen"/>ſion in diſputable matters, may eaſily be obſerved to contradict himſelf, and that's
+<pb n="12" facs="tcp:34527:11"/>the only Method to ſhame and ſilence him.</p>
+            <p n="45">
+               <label>XLV.</label> Boldneſs and Confidence many times obtain that which cannot be compaſſed by ordinary means.</p>
+            <p n="46">
+               <label>XLVI.</label> Tis not enough for a Man to have good qualities, but he muſt likewiſe know how to uſe and manage them.</p>
+            <p n="47">
+               <label>XLVII.</label> That Noiſe and Show that proves a Man not to be Ingenious or Wiſe, is of<g ref="char:EOLhyphen"/>ten-times the cauſe of his reputation for being ſo.</p>
+            <p n="48">
+               <label>XLVIII.</label> Many who are excellent for one qua<g ref="char:EOLhyphen"/>lity have not the Reputation of being ſo, becauſe they are excellent for ano<g ref="char:EOLhyphen"/>ther,
+<pb n="13" facs="tcp:34527:11"/>as <hi>Caeſar</hi> is beleived to have been as Eloquent as <hi>Cicero,</hi> and yet is Famous only as a Warriour.</p>
+            <p n="49">
+               <label>XLIX.</label> A great Reputation doth rather abaſe then exalt thoſe who know not how to anſwer and ſuſtein it.</p>
+            <p n="50">
+               <label>L.</label> We Judg of other Mens merit by their carriage towards us, our ſelf-love doth either augment or leſſen their good qua<g ref="char:EOLhyphen"/>lities in Proportion to the Pleaſure and Satisfaction we have by them.</p>
+            <p n="51">
+               <label>LI.</label> One Man is not more unlike another, then every Man is unlike himſelf conſi<g ref="char:EOLhyphen"/>dered at different times.</p>
+            <p n="52">
+               <label>LII.</label> No Man is ever ſo ridiculous by the
+<pb n="14" facs="tcp:34527:12"/>qualities he hath, as by thoſe which he affects to have.</p>
+            <p n="53">
+               <label>LIII.</label> Tis ever reckoned more ſhameful to diſtruſt ones Friends, then to be deceived by them.</p>
+            <p n="54">
+               <label>LIV.</label> All Men complain of their Memories, but no Man of his Judgment.</p>
+            <p n="55">
+               <label>LV.</label> No difguiſe can for any long time hide Love, where it is in reality, or feigns it where 'tis not.</p>
+            <p n="56">
+               <label>LVI.</label> We pleaſe more in our converſations by our weakneſſes and failings, then by any of our good qualities.</p>
+            <pb n="15" facs="tcp:34527:12"/>
+            <p n="57">
+               <label>LVII.</label> A Man may know others by him<g ref="char:EOLhyphen"/>ſelf, for as in water face anſwereth to face, ſo doth the heart of Man to Man.</p>
+            <p n="58">
+               <label>LVIII.</label> Folly attends us in every time of our Life, if any one appear wiſer then ano<g ref="char:EOLhyphen"/>ther, 'tis becauſe his follies are more pro<g ref="char:EOLhyphen"/>portioned to his Age and Fortune.</p>
+            <p n="59">
+               <label>LIX.</label> Many would diſcover greater Wiſ<g ref="char:EOLhyphen"/>dom and Ability then they do, did they not over earneſtly deſire and affect it.</p>
+            <p n="60">
+               <label>LX.</label> The wiſeſt Men may be often at a loſs in the company of Fools.</p>
+            <p n="61">
+               <label>LXI.</label> Tis more eaſie to be Wiſe for o<g ref="char:EOLhyphen"/>ther
+<pb n="16" facs="tcp:34527:13"/>Men then for himſelf, as it is to give good Councel then to follow it.</p>
+            <p n="62">
+               <label>LXII.</label> There are ſome Commendations which reproach a Man, and ſome re<g ref="char:EOLhyphen"/>proaches on the contrary which are ra<g ref="char:EOLhyphen"/>ther to a Mans Praiſe.</p>
+            <p n="63">
+               <label>LXIII.</label> Tis as eaſie to deceive a Mans Self and not obſerve it, as tis difficult to de<g ref="char:EOLhyphen"/>ceive others without being obſerved.</p>
+            <p n="64">
+               <label>LXIV.</label> Men commonly magnifie the good qualities of others, not from an eſteem of their merit, but from a value for their own, and would attract Praiſe to them<g ref="char:EOLhyphen"/>ſelves by beſtowing it on others.</p>
+            <p n="65">
+               <label>LXV.</label> No greater mark of an extraordi<g ref="char:EOLhyphen"/>nary
+<pb n="17" facs="tcp:34527:13"/>merit then to hear a man prayſed by thoſe who do moſt Envy him.</p>
+            <p n="66">
+               <label>LXVI.</label> The reaſon why ſo few ſeem Ration<g ref="char:EOLhyphen"/>al and Agreable in their Converſation, is becauſe moſt Men conſider what they would ſpeak themſelves rather then what they ſhould anſwer to that is ſpoke.</p>
+            <p n="67">
+               <label>LXVII.</label> Try the Fidelitie of a Friend in ſuch a time and inſtance as you can bear his refuſal without great inconvenience, for he that would borrow when he hath not, muſt borrow when he hath.</p>
+            <p n="68">
+               <label>LXVIII.</label> Reſolve never to do that by another which you may do by your ſelf, nor do that to morrow which you may do to day, nor neglect or deſpiſe the leaſt thing.</p>
+            <pb n="18" facs="tcp:34527:14"/>
+            <p n="69">
+               <label>LXIX.</label> He that excuſeth a Fault by a Lye, thinks it better to be Guilty of two Faults then to be thought Guilty of one.</p>
+            <p n="70">
+               <label>LXX.</label> Remember not the Favours you have done to others, and forget not thoſe which others have done to you.</p>
+            <p n="71">
+               <label>LXXI.</label> Many Wicked Perſons would be leſs dangerous then they are, and do leſs miſcheif, if they had not ſome good<g ref="char:EOLhyphen"/>neſs.</p>
+            <p n="72">
+               <label>LXXII.</label> The honour a Man hath already ac<g ref="char:EOLhyphen"/>quired is caution for more and great<g ref="char:EOLhyphen"/>er.</p>
+            <pb n="19" facs="tcp:34527:14"/>
+            <p n="73">
+               <label>LXXIII.</label>'Tis more difficult to know what not to ſay on any Subject then to ſpeak much.</p>
+            <p n="74">
+               <label>LXXIV.</label>'Tis much eaſier to appear worthy of thoſe Employments which a Man hath not, then of thoſe which he actu<g ref="char:EOLhyphen"/>ally hath.</p>
+            <p n="75">
+               <label>LXXV.</label> We many times confeſs little Faults with a deſign to perſwade that we have not great ones.</p>
+            <p n="76">
+               <label>LXXVI.</label> Moſt Men Love new acquaintance, not ſo much becauſe they are weary of the Old, or find Pleaſure in change, as becauſe they think they are not admir<g ref="char:EOLhyphen"/>ed
+<pb n="20" facs="tcp:34527:15"/>enough by thoſe who know them too well, and hope to be more ſo by thoſe that know them not ſo much.</p>
+            <p n="77">
+               <label>LXXVII.</label> What ſeems to be generoſity is often<g ref="char:EOLhyphen"/>times but Ambition in diſguiſe which condemns little intereſts and deſigns to aſpire at greater.</p>
+            <p n="78">
+               <label>LXXVIII</label> He that endeavours only to imitate other Men, doth not take the way to ex<g ref="char:EOLhyphen"/>cell.</p>
+            <p n="79">
+               <label>LXXIX.</label> Tis ſome kind of ingratitude to be earneſt and preſſing to acquit our ſelves of our obligations to another.</p>
+            <p n="80">
+               <label>LXXX</label> Little Paſſions are diminiſht by ab<g ref="char:EOLhyphen"/>ſence,
+<pb n="21" facs="tcp:34527:15"/>but great ones are augmented, as the Wind Blows out a Candle but in<g ref="char:EOLhyphen"/>creaſeth a Fire.</p>
+            <p n="81">
+               <label>LXXXI.</label> We magnifie the Affection and ten<g ref="char:EOLhyphen"/>derneſs which our Friends have for us, rather to declare our own merit, then our gratitude.</p>
+            <p n="82">
+               <label>LXXXII.</label> Thankfulneſs for Favours is general<g ref="char:EOLhyphen"/>ly with a deſign to obtain more.</p>
+            <p n="83">
+               <label>LXXXIII.</label> Pride, which inſpires us ſo much with Envy, doth oftentimes ſeem to moderate it, for we ſhould more envy other Men, did we not extreamly flat<g ref="char:EOLhyphen"/>ter our ſelves.</p>
+            <pb n="22" facs="tcp:34527:16"/>
+            <p n="84">
+               <label>LXXXIV.</label> The Encouragement we give to thoſe who are entring on the World and be<g ref="char:EOLhyphen"/>ginning an Imploy, proceeds often<g ref="char:EOLhyphen"/>times from a ſecret Envy we bear to ſome already ſetled.</p>
+            <p n="85">
+               <label>LXXXV.</label> Tis more difficult for a Man to be Faithful to a Miſtris when he is favou<g ref="char:EOLhyphen"/>red, and happy, then when he is ill treated.</p>
+            <p n="86">
+               <label>LXXXVI.</label> There are ſuch accidents ſometimes fall out in the Life of a Man, that be he never ſo wiſe, he muſt a little act the part of a Fool to extricate himſelf.</p>
+            <p n="87">
+               <label>LXXXVII.</label> All Men have ſome time or other an
+<pb n="23" facs="tcp:34527:16"/>Oportunity offered for their advance<g ref="char:EOLhyphen"/>ment and happineſs, which if they miſs and do not improve, they ſeldom meet with the like while they live.</p>
+            <p n="88">
+               <label>LXXXVIII.</label> All Men almoſt take Pleaſure to re<g ref="char:EOLhyphen"/>pay little Obligations, but few or none are thankful as they ought for great ones.</p>
+            <p n="89">
+               <label>LXXXIX.</label> We need only be jealous of thoſe who are ſtudiouſly careful to avoid giving Jealouſie.</p>
+            <p n="90">
+               <label>XC.</label> Jealouſie is always born with Love, but oftentimes ſurvives it.</p>
+            <p n="91">
+               <label>XCI.</label> Whence comes it to paſs that we have
+<pb n="24" facs="tcp:34527:17"/>Memory enough, to retain even the ſmaleſt particulars of what happens to our ſelves, and yet forget that we have ever repeated them more then once to the ſame Perſon.</p>
+            <p n="92">
+               <label>XCII.</label> What diſtruſt ſoever we have of the Sincerity of thoſe who tell us any thing, yet we always believe they tell us more Truth then they do to others.</p>
+            <p n="93">
+               <label>XCIII.</label> Any one that Loves may know when another ceaſeth to Love him.</p>
+            <p n="94">
+               <label>XCIV.</label> That which renders the Pride of o<g ref="char:EOLhyphen"/>thers inſupportable, is becauſe it wounds our own.</p>
+            <pb n="25" facs="tcp:34527:17"/>
+            <p n="95">
+               <label>XCV.</label> A Man hath few Faults leſs pardonable then the means he makes uſe of to hide them.</p>
+            <p n="96">
+               <label>XCVI.</label> Whatſoever ſhame almoſt we have deſerved, 'tis almoſt always in our Power to Re-eſtabliſh our Reputation.</p>
+            <p n="97">
+               <label>XCVII.</label> No Man can pleaſe for a long time who hath but one kind of Humour or is always in the ſame temper.</p>
+            <p n="98">
+               <label>XCVIII</label> We oftentimes appear greater then we are by an Employment beneath our merit, but are diminiſht by an under<g ref="char:EOLhyphen"/>taking above our Capacities.</p>
+            <pb n="26" facs="tcp:34527:18"/>
+            <p n="99">
+               <label>XCIX.</label> Novelty and long uſe or Cuſtom do e<g ref="char:EOLhyphen"/>qually hinder us from taking notice of the Faults of our Friend.</p>
+            <p n="100">
+               <label>C.</label> Thoſe that Love will ſooner par<g ref="char:EOLhyphen"/>don the greateſt indiſcretion then the leaſt unfaithfulneſs.</p>
+            <p n="101">
+               <label>CI.</label> What diſpoſition ſoever the World hath to Judge amiſs, it is yet more frequently kind to falſe merit then unjuſt to true.</p>
+            <p n="102">
+               <label>CII.</label> Our Enemies do commonly come nearer to the Truth in their Opinion
+<pb n="27" facs="tcp:34527:18"/>of us, then we do in Judgment of our ſelves.</p>
+            <p n="103">
+               <label>CIII.</label> The ſame Pride that makes us blame the Faults from which we think our ſelves Free, cauſeth us to deſpiſe the good qualities of others which we want our ſelves.</p>
+            <p n="104">
+               <label>CIV.</label> That Steddineſs of Temper which ſeems to reſiſt Love, ſeemes alſo to ren<g ref="char:EOLhyphen"/>der it violent and laſting after once it is admitted.</p>
+            <p n="105">
+               <label>CV.</label> Fearfulneſs and Cowardiſe are Faults whereof 'tis dangerous to reprove thoſe you would cure of them.</p>
+            <p n="106">
+               <label>CVI</label> The Calmneſs or diſcompoſure of
+<pb n="28" facs="tcp:34527:19"/>our Humour, depends not ſo much on the moſt weighty and conſiderable acci<g ref="char:EOLhyphen"/>dents of our Lifes, as on the diſpoſition and ordering of thoſe little things which occur dayly.</p>
+            <p n="107">
+               <label>CVII</label> No quarrel laſts long where but one ſide is in Fault.</p>
+            <p n="108">
+               <label>CVIII.</label> Though Errour be blind, yet by diſ<g ref="char:EOLhyphen"/>pute ſhe produceth knowledge.</p>
+            <p n="109">
+               <label>CIX.</label> Diſputations about Evinced Certain<g ref="char:EOLhyphen"/>ties renders them many times uncertain and doubtful.</p>
+            <p n="110">
+               <label>CX.</label> Vulgar Air is more eaſie got then kept, the Mobile ever deſiring rather to make
+<pb n="29" facs="tcp:34527:19"/>a Man great than endure him when he is ſo.</p>
+            <p n="111">
+               <label>CXI.</label> Haſty honour is generally ſhort li<g ref="char:EOLhyphen"/>ved, ariſing moſtly from Expectation, which if not ſeconded by a double per<g ref="char:EOLhyphen"/>formance turns to contempt, beſides that a ſudden riſe occaſions a more ſtrict enquiry.</p>
+            <p n="112">
+               <label>CXII.</label> Fame undeſerved is a Silent invitaion to merit.</p>
+            <p n="113">
+               <label>CXIII.</label> Diſoblige no one, for though he be not worthy to be a Friend he may be able to be an Enemy.</p>
+            <p n="114">
+               <label>CXIV.</label> Quality makes the beſt Friends, there
+<pb n="30" facs="tcp:34527:20"/>being no danger either of Envy or Con<g ref="char:EOLhyphen"/>tempt, either of which when any way Predominant diſſolves the Frame.</p>
+            <p n="115">
+               <label>CXV.</label> In diſſimulation <hi>artis eſt celare ar<g ref="char:EOLhyphen"/>tem.</hi>
+            </p>
+            <p n="116">
+               <label>CXVI.</label> Great Perſons ſtand for Imitation, leſ<g ref="char:EOLhyphen"/>ſer for Obſervation, from both may be learned Experience.</p>
+            <p n="117">
+               <label>CXVII.</label> Company like <hi>Climates</hi> Alter Com<g ref="char:EOLhyphen"/>plexions, therefore be ſure keep Com<g ref="char:EOLhyphen"/>pany with Perſons above rather then beneath your ſelves.</p>
+            <p n="118">
+               <label>CXVIII.</label> Reputation is like a Glaſs, once crackt and always crazy.</p>
+            <pb n="31" facs="tcp:34527:20"/>
+            <p n="119">
+               <label>CXIX.</label> A Wiſe Man will once in an age come in Faſhion.</p>
+            <p n="120">
+               <label>CXX.</label> No one can be merry that hath more then one Woman in his Bed, more then one Friend in his Boſome, and more then one Faith in his Heart.</p>
+            <p n="121">
+               <label>CXXI.</label> Extravagantly to commend another is an argument of arrogance, for he who ſo Commends another would have him eſteemed upon his own Judgment.</p>
+            <p n="122">
+               <label>CXXII.</label> Every Mans Fault ſhould be every Mans Secret.</p>
+            <p n="123">
+               <label>CXXIII.</label> Every Man a little beyond himſelf is a Fool.</p>
+            <pb n="32" facs="tcp:34527:21"/>
+            <p n="124">
+               <label>CXXIV.</label> Envy knows what it will not confeſs, and yet an Envious Perſon never attains any knowledg of himſelf but by re<g ref="char:EOLhyphen"/>port.</p>
+            <p n="125">
+               <label>CXXV.</label> All Controverſies leave truth in the middle, and are falſe at both ends.</p>
+            <p n="126">
+               <label>CXXVI</label> To Obey well is as great action as to govern, and more mens duties.</p>
+            <p n="127">
+               <label>CXXVII</label> Nature hath produced few perſons ſtrong, but Induſtry and Exerciſe makes many.</p>
+            <p n="128">
+               <label>CXXVIII</label> He who underſtands his own and
+<pb n="33" facs="tcp:34527:21"/>his Adverſaries ſtrength can hardly ever miſcarry.</p>
+            <p n="129">
+               <label>CXXIX.</label> Sudden Accidents are not eaſily pre<g ref="char:EOLhyphen"/>vented, but thoſe that are foreſeen are prevented without difficulty.</p>
+            <p n="130">
+               <label>CXXX.</label> He that Encounters with a deſperate Perſon runs a great Hazard of making himſelf ſo.</p>
+            <p n="131">
+               <label>CXXXI.</label> He that is a Wiſe Man will prefer the publick good before any private Quarrel of his own.</p>
+            <p n="132">
+               <label>CXXXII.</label> He that would do any great thing by his own Authority, muſt firſt extinguiſh Envy.</p>
+            <pb n="34" facs="tcp:34527:22"/>
+            <p n="133">
+               <label>CXXXIII.</label> A Man once diſobliged is never af<g ref="char:EOLhyphen"/>ter to be imployed in any, matter of great Importance.</p>
+            <p n="134">
+               <label>CXXXIV.</label> He is many times miſtaken, that with Meekneſs and Humility expects to work much upon a proud Per<g ref="char:EOLhyphen"/>ſon.</p>
+            <p n="135">
+               <label>CXXXV.</label> He that changeth his Humour, or De<g ref="char:EOLhyphen"/>meanour, or Party, muſt not do it at a leap, but by gradation, that before the Diverſity of his deportment deprives him of his old Friends, he may gain new ones, otherwiſe being diſcovered and deſerted he is certainly Ruined.</p>
+            <pb n="35" facs="tcp:34527:22"/>
+            <p n="136">
+               <label>CXXXVI</label> It is never adviſable to put a Mans whole Fortune on the Hazard for any Proſpect whatſoever, conſidering the Inſtability of Humane Aſſairs.</p>
+            <p n="137">
+               <label>CXXXVII.</label> It is a quaere, whether an Envions Man Laughs more when ill betides another or when good to himſelf.</p>
+            <p n="138">
+               <label>CXXXVIII.</label> What is good for the Hive is good for the Bee's.</p>
+            <p n="139">
+               <label>CXXXIX.</label> To Enrich a Mans ſelf with anothers Loſs is unnatural.</p>
+            <p n="140">
+               <label>CXL.</label> He whoſe Duty it is to defend others,
+<pb n="36" facs="tcp:34527:23"/>ought not raſhly to run himſelf in dan<g ref="char:EOLhyphen"/>ger, for more then one is Concern<g ref="char:EOLhyphen"/>ed.</p>
+            <p n="141">
+               <label>CXLI.</label> Tis more Wiſdom to be reckoned mi<g ref="char:EOLhyphen"/>ſerable, which is an Imputation rather Infamous then Odious, then be thought Liberal, and run your ſelf into a Neceſſity of being diſhoneſt, which is infamous and Odious both.</p>
+            <p n="142">
+               <label>CXLII.</label> He that neglects what is done to fol<g ref="char:EOLhyphen"/>low what ought to be done, will ſooner learn how to Ruin then how to preſerve himſelf.</p>
+            <p n="143">
+               <label>CXLIII.</label> Humane Frailty and Fortunes In<g ref="char:EOLhyphen"/>ſtability are Arguments for Clemen<g ref="char:EOLhyphen"/>cy.</p>
+            <pb n="37" facs="tcp:34527:23"/>
+            <p n="144">
+               <label>CXLIV.</label> There is nothing ſooner diſſolves Humane Society then the Vice of ingra<g ref="char:EOLhyphen"/>titude.</p>
+            <p n="145">
+               <label>CLXV.</label> An Honeſt Mans Word is as good as his Oath.</p>
+            <p n="146">
+               <label>CXLVI.</label> He that Permits a Crime when he ought and can hinder it, is <hi>Particeps Criminis.</hi>
+            </p>
+            <p n="147">
+               <label>CXLVII.</label> The reaſon why Men are Revengful, is becauſe they think to aſſwage their own greif by occaſioning another Mans, but 'tis unnatural to do ſo.</p>
+            <pb n="38" facs="tcp:34527:24"/>
+            <p n="148">
+               <label>CXLVIII.</label> Love is always Venturous and con<g ref="char:EOLhyphen"/>ceives difficult things eaſier then they are.</p>
+            <p n="149">
+               <label>CXLIX.</label> The reaſon why Men Study and En<g ref="char:EOLhyphen"/>deavour to Juſtifie their Paſſion, is Love of Eaſe, for though they Love the Cor<g ref="char:EOLhyphen"/>rupt Pleaſure of Paſſion, yet they Love not the Reflective part, beſides Pride hath no ſmall ſhare in the occaſion.</p>
+            <p n="150">
+               <label>CL.</label> He that will advance an intereſt, muſt Study more how to oblige others then how to Enrich himſelf.</p>
+            <p n="151">
+               <label>CLI.</label> Tis a good Rule in apparel to let your Wife go above your Eſtate,
+<pb n="39" facs="tcp:34527:24"/>and your Children according to your Eſtate, and your Self below it, ſo that you may make all even at the Years end.</p>
+            <p n="152">
+               <label>CLII.</label> Old Men live more by Memory then by hope</p>
+            <p n="153">
+               <label>CLIII.</label> He is the ſafeſt Preſerver of a Secret, whoſe Secrecy and Silence need not be feared.</p>
+            <p n="154">
+               <label>CLIV.</label> Great deſervers are generally either hated or feared or both by the party obliged, and that either becauſe of the Expectation of as great a return or the Power to do as great a miſcheif.</p>
+            <p n="155">
+               <label>CLV.</label> He is a Fool that will adventure a
+<pb n="40" facs="tcp:34527:25"/>Double <hi>Duckett</hi> for a ſingle Peny.</p>
+            <p n="156">
+               <label>CLVI.</label> Hidden Muſick is nothing Worth.</p>
+            <p n="157">
+               <label>CLVII.</label> It is better to live where nothing is Lawful then where all things are ſo.</p>
+            <p n="158">
+               <label>CLVIII.</label> They that purſue a deſign in the Common Road, ſhall be ſoon met with<g ref="char:EOLhyphen"/>all and oppoſed, for a deſign once known ceaſes to be ſuch.</p>
+            <p n="159">
+               <label>CLIX.</label> It is only for great minds to proſecute their Intentions, though their Actions be cenſured and controuled.</p>
+            <pb n="41" facs="tcp:34527:25"/>
+            <p n="160">
+               <label>CLX.</label> That Evil Words Corrupt good man<g ref="char:EOLhyphen"/>ners, is no leſs a true then Common Speech.</p>
+            <p n="161">
+               <label>CLXI.</label> Tis buſineſs and imployment which makes a Man as well as trys him.</p>
+            <p n="162">
+               <label>CLXII.</label> Abſence is the beſt ſafe-guard for a Man that hath offended his Superiour.</p>
+            <p n="163">
+               <label>CLXIII.</label> The greateſt Strength and Power of ony Perſon conſiſts in his Re<g ref="char:EOLhyphen"/>putation.</p>
+            <p n="164">
+               <label>CLXIV.</label> Moſt Men attribute that to a defi<g ref="char:EOLhyphen"/>ciency of Wiſdom which is a meer
+<pb n="42" facs="tcp:34527:26"/>want of fortune, and ſome aſcribe that to cunning which is the effect of pure chance.</p>
+            <p n="165">
+               <label>CLXV.</label> The reaſon why moſt are ſo unfor<g ref="char:EOLhyphen"/>tunate is becauſe they feel more the Pre<g ref="char:EOLhyphen"/>ſent time then they Fear the Future.</p>
+            <p n="166">
+               <label>CLXVI.</label> Tis ſeldom Prudence to Endavour that by Force which you may obtain by fair means, for the former cer<g ref="char:EOLhyphen"/>tainly gets you an Enemy but renders the event uncertain, whereas the latter gets the end more eaſily and when got is more durable.</p>
+            <p n="167">
+               <label>CLXVII.</label> Self love is the moſt ſubtle and dan<g ref="char:EOLhyphen"/>gerous Flatterer in the World.</p>
+            <pb n="43" facs="tcp:34527:26"/>
+            <p n="168">
+               <label>CLXVIII.</label> He that ſpeaks much and thinks him<g ref="char:EOLhyphen"/>ſelf Wiſe, is worſe then a Fool and more Incorrigible,</p>
+            <p n="169">
+               <label>CLXIX.</label> There is a prepetual Succeſſion of Paſ<g ref="char:EOLhyphen"/>ſions in the Heart of Man, ſo that the Ruin of the one is almoſt always the Eſtabliſhment of another, there being an eaſy Tranſition from one to another, as from Love to Hatred or Averſion.</p>
+            <p n="170">
+               <label>CLXX.</label> We ſhould oftentimes be aſhamed of our beſt Actions, if the World un<g ref="char:EOLhyphen"/>derſtood the Motives that produced them.</p>
+            <p n="171">
+               <label>CLXXI.</label> The Lip of Truth ſhall be Eſtabliſhed
+<pb n="44" facs="tcp:34527:27"/>for ever, but a Lying Tongue is but for a Moment.</p>
+            <p n="172">
+               <label>CLXXII.</label> The Love of Flattery hath more or leſs infected all Mankind, and ought to be watch't, againſt as the moſt dangerous Poyſon.</p>
+            <p n="173">
+               <label>CLXXIII.</label> Our readineſs to adviſe others, unleſs an Intimate Friend, or earneſtly deſired, is rather an Effect of Pride then Proof of Friendſhip.</p>
+            <p n="174">
+               <label>CLXXIV.</label> Tis much more difficult to behave our ſelve as we ought in Proſperity then in Adverſity.</p>
+            <p n="175">
+               <label>CLXXV.</label> Prid and Vain-Glory are always fol<g ref="char:EOLhyphen"/>lowed
+<pb n="45" facs="tcp:34527:27"/>with contempt and hatred, but to the meek Perſon all Men pay a re<g ref="char:EOLhyphen"/>ſpect.</p>
+            <p n="176">
+               <label>CLXXVI.</label> He that attempts any thing beyond his Strength, and above his Capacity, ſhould not think it ſtrange if he meet with diſappointment.</p>
+            <p n="177">
+               <label>CLXXVII.</label> He that delights in the Converſation of Vain and Wicked Perſons, cannot Re<g ref="char:EOLhyphen"/>liſh the Company of Wiſe and good Men, or be pleaſed with Serious diſ<g ref="char:EOLhyphen"/>courſe.</p>
+            <p n="178">
+               <label>CLXXVIII.</label> He that ſets his Mind and Affections on things Superfluous is Commonly re<g ref="char:EOLhyphen"/>duced to want Neceſſaries.</p>
+            <pb n="46" facs="tcp:34527:28"/>
+            <p n="179">
+               <label>CLXXIX.</label> We think we have Strength enough to ſupport the Miſeries of others, and yet are very impatient under leſs ones of our own.</p>
+            <p n="180">
+               <label>CLXXX.</label> A Prudent Man foreſeeth the Evil, and hideth himſelf, but the Simple paſs on and are puniſht.</p>
+            <p n="181">
+               <label>CLXXXI.</label> The Flatery of other Men could never do us miſcheif if we did not ſlat<g ref="char:EOLhyphen"/>ter our Selves.</p>
+            <p n="182">
+               <label>CLXXXII.</label> There are ſome Vices which ſeem to enter into the compoſition of vertues, as Poyſons into that of the moſt uſefull Medicines.</p>
+            <pb n="47" facs="tcp:34527:28"/>
+            <p n="183">
+               <label>CLXXXIII.</label> He that makes too litle an account of himſelf, is as far from true Modeſty as he that eſteems himſelf far more then he ought.</p>
+            <p n="184">
+               <label>CLXXXIV.</label> Old Men love to give good Coun<g ref="char:EOLhyphen"/>cells to comfort themſelves that they are no longer in a condition to give Ex<g ref="char:EOLhyphen"/>amples.</p>
+            <p n="185">
+               <label>CLXXXV.</label> A Man is happy by injoying what he loves rather then that which moſt others reckon Lovely, Felicity depend<g ref="char:EOLhyphen"/>ing on our Taſte and Reliſh of things more then on the things them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <p n="186">
+               <label>CLXXXVI.</label> Moſt Men would have little or no
+<pb n="48" facs="tcp:34527:29"/>Pleaſure in this World, did they not ſometimes flatter themſelves.</p>
+            <p n="187">
+               <label>CLXXXVIII.</label> Some Men and Things are better Judged of, when near at hand, and o<g ref="char:EOLhyphen"/>thers better at a diſtance.</p>
+            <p n="188">
+               <label>CLXXXIX.</label> VVe eaſily forget our own Faults, when they are only known to our Selves.</p>
+            <p n="189">
+               <label>CXC</label> More betray the Secrets of their Friends, and prove unfaithful by weak<g ref="char:EOLhyphen"/>neſs and inconſideration then by de<g ref="char:EOLhyphen"/>ſign.</p>
+            <p n="190">
+               <label>CXCI.</label> We are ſo accuſtomed to diſguiſe our
+<pb n="49" facs="tcp:34527:29"/>ſelves to others, that at length it comes to paſs that we do the ſame to our ſelves.</p>
+            <p n="191">
+               <label>CXCII.</label> We are never pleaſed to be Cheated by our Enemies, or betrayed by our Friends, but we commonly are very well Satisfied to be deceived by our ſelves.</p>
+            <p n="192">
+               <label>CXCIII.</label> Nothing is leſs Sincere then the uſual way of asking and giving Councel, he that beggs Adviſe, ſeems to have a re<g ref="char:EOLhyphen"/>ſpectful Defference for the Opinion of his Friend, though he deſigns only to gain an approbation of his own, and he that gives Councel, ſeems to reward his Confidence with an Ardent and Diſ<g ref="char:EOLhyphen"/>intereſted Zeal, though oftentimes he Aims only at his own Intereſt or Glory by the Advice he gives.</p>
+            <pb n="50" facs="tcp:34527:30"/>
+            <p n="193">
+               <label>CXCIV.</label> To hear with Attention, and Anſwer pertinently to what is ſaid, is one of the greateſt Perfections in Converſa<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="194">
+               <label>CXCV.</label> As 'tis the Character of a great un<g ref="char:EOLhyphen"/>derſtanding to expreſs much in a little, ſo of a ſhallow one to ſay little or no<g ref="char:EOLhyphen"/>thing in very many Words.</p>
+            <p n="195">
+               <label>CXCVI.</label> They that Love talking, will rather ſpeak Evil of themſelves, and mention what they are concerned to Conceal, then hold their Peace.</p>
+            <p n="196">
+               <label>CXCVII.</label> That which hath been is now; and that which is to be, hath already been,
+<pb n="51" facs="tcp:34527:30"/>and there is no new thing under the Sun.</p>
+            <p n="197">
+               <label>CXCVIII.</label> Only by Pride cometh Contention, but with the well Adviſed is Wiſ<g ref="char:EOLhyphen"/>dom.</p>
+            <p n="198">
+               <label>CXCIX.</label> Never talk of what you know not, and ſpeak but little of what you know, and that not raſhly without conſideration.</p>
+            <p n="199">
+               <label>CC.</label> Do not put off to another time, that which you may do at preſent as well.</p>
+            <p n="200">
+               <label>CCI.</label> He that diſpiſeth his Old Friends in Proſperity or advancement, muſt ex<g ref="char:EOLhyphen"/>pect to meet with none when the Scales are turned.</p>
+            <pb n="52" facs="tcp:34527:31"/>
+            <p n="201">
+               <label>CCII.</label> He that cannot bear with the weak<g ref="char:EOLhyphen"/>neſſes of other Men, makes his own to be inſupportable.</p>
+            <p n="202">
+               <label>CCIII.</label> He that loveth Pleaſure ſhall be a Poor Man, and he that loveth Wine and Oyl ſhall not be Rich, the Drunk<g ref="char:EOLhyphen"/>ard and the Glutton ſhall come to Po<g ref="char:EOLhyphen"/>verty, and Drouſineſs ſhall Cloath a Man with Raggs.</p>
+            <p n="203">
+               <label>CCIV.</label> He that is not content with the midle Condition, between Poverty and Riches, doth commonly take a great deal of Pains to leſſen his Fortune hy his Endeav ours to Enereaſe it.</p>
+            <pb n="53" facs="tcp:34527:31"/>
+            <p n="204">
+               <label>CCV.</label> Be not curious to underſtand the Se<g ref="char:EOLhyphen"/>crets of other Men's Affairs, and be very careful to whom you impart your own.</p>
+            <p n="205">
+               <label>CCVI.</label> Seeſt thou a Man Diligent in his bu<g ref="char:EOLhyphen"/>ſineſs, he ſhall ſtand before Kings he ſhall not ſtand before Mean Men.</p>
+            <p n="206">
+               <label>CCVII.</label> Moſt Men owe their Integrity to their Ignorance of Vice rather then to the knowledg of Virtue.</p>
+            <p n="207">
+               <label>CCVIII.</label> There is one inſeparable reward of good Actions, <hi>viz.</hi> The Satisfaction of having done them.</p>
+            <pb n="54" facs="tcp:34527:32"/>
+            <p n="208">
+               <label>CCIX.</label> Eloquence in ſpeaking, depends as much almoſt on the Tone of the Voice, the Eyes and Airs of the Perſon, as on the choice of Words.</p>
+            <p n="209">
+               <label>CCX.</label> A Prudent Man concealeth knowledg, but that which is in the midſt of Fools is made known.</p>
+            <p n="210">
+               <label>CCXI.</label> There are Perſons of very great Me<g ref="char:EOLhyphen"/>rit who yet do not pleaſe, and there are others who are very acceptable though they have many failings.</p>
+            <p n="211">
+               <label>CCXII.</label> A Man of ordinary Abilities that knows how to Husband and Improve them, will have more eſteem and Re<g ref="char:EOLhyphen"/>putation in the World then another of
+<pb n="55" facs="tcp:34527:32"/>'twice as much Merit who wants that Skill.</p>
+            <p n="212">
+               <label>CCXIII.</label> There are very many undertakings that ſeem very Abſurd and Fooliſh which are founded on very Wiſe and So<g ref="char:EOLhyphen"/>lid Reaſons.</p>
+            <p n="213">
+               <label>CCXIV.</label> While only Sloth and Fear keep us within the Bounds of our Duty, our Vir<g ref="char:EOLhyphen"/>tue hath oftentime the Honour of it.</p>
+            <p n="214">
+               <label>CCXV.</label> When Vices forſake us, we flatter our ſelves that we have left them.</p>
+            <p n="215">
+               <label>CCXVI.</label> The Love of Glory, the Fear of Shame, the deſign to raiſe a Fortune, or the de<g ref="char:EOLhyphen"/>ſire
+<pb n="56" facs="tcp:34527:33"/>to abaſe others, are oftentimes the cauſes of that valour ſo renowned a<g ref="char:EOLhyphen"/>mongſt Men.</p>
+            <p n="216">
+               <label>CCXVII.</label> Our Repentance for the moſt part is not a Regret for the Evil we have done, ſo much as a Fear of that Evil which may betide us for it.</p>
+            <p n="217">
+               <label>CCXVIII.</label> Envy is more irreconcileable then hatred.</p>
+            <p n="218">
+               <label>CCXIX.</label> A Man may beleive that he hates flattery when he only hates the manner of it.</p>
+            <p n="219">
+               <label>CCXX.</label> Conſtancy in Love, is a perpetual in<g ref="char:EOLhyphen"/>conſtancy, cauſing the Heart to fix it
+<pb n="57" facs="tcp:34527:33"/>ſelf ſucceſſively to all the qualities of the Perſon we Love, giving ſometimes the Preference to one and ſometimes to the other, inſomuch that conſtancy is no<g ref="char:EOLhyphen"/>thing elſe but inconſtancy incloſed with<g ref="char:EOLhyphen"/>in one and the ſame Subject.</p>
+            <p n="220">
+               <label>CCXXI.</label> Perſeverance in Love is neither worthy of Praiſe or Blame, becauſe it is only the continuance of thoſe Sentiments which a Man doth neither give to himſelf nor can deprive himſelf of.</p>
+            <p n="221">
+               <label>CCXXII.</label> Men of the leaſt Merit are uſually moſt content, and they complain moſt of their Fortune and Condition in the World who have leaſt reaſon to do ſo.</p>
+            <pb n="58" facs="tcp:34527:34"/>
+            <p n="222">
+               <label>CCXXIII.</label> When our Superiours intruſt us with a Secret, or great Men put Confidence in us, we regard it as the Fruit of our own merit, whereas tis oftentimes the effect of their Vanity, and becauſe they cannot keep Secrets.</p>
+            <p n="223">
+               <label>CCXXIV.</label> Tis ordinarily from Pride rather then from want of Light, that Men op<g ref="char:EOLhyphen"/>poſe themſelves with obſtinacy to the moſt received Opinions, finding the firſt Places already taken on the Right ſide, they are not content to have the laſt.</p>
+            <p n="224">
+               <label>CCXXV.</label> Tis a Peice of Folly to be wiſe alone, and to affect Singularity from the reſt of the World in things indifferent.</p>
+            <pb n="59" facs="tcp:34527:34"/>
+            <p n="225">
+               <label>CCXXVI.</label> Hypocriſy is an homage which Vice renders to Vertue.</p>
+            <p n="226">
+               <label>CCXXVII.</label> The Valour of moſt Men, and the Vertue of moſt Women is from Pride or Shame, or Bodily Temparament.</p>
+            <p n="227">
+               <label>CCXXVIII.</label> Flattery applied with Art doth commonly receive the reward of Merit.</p>
+            <p n="228">
+               <label>CCXXIX.</label> Nothing is ſo contagious as Exam<g ref="char:EOLhyphen"/>ple, we never do any conſiderable good or Evil but they produce the like, we imitate good Actions of others through Emulation, and their Evil ones through the Malignity of our Natures which
+<pb n="60" facs="tcp:34527:35"/>was Reſtrained and held Priſoner by Shame, but is fet at Liberty by Exam<g ref="char:EOLhyphen"/>ple.</p>
+            <p n="229">
+               <label>CCXXX.</label> No Man can preſerve thoſe Senti<g ref="char:EOLhyphen"/>ments which he ought to have for his Friends and Benefactors, if he indulge himſelf too great a Liberty to talk of<g ref="char:EOLhyphen"/>ten of their Faults.</p>
+            <p n="230">
+               <label>CCXXXI.</label> Tis impoſſible to Love a Second time that which one hath truly ceaſed to Love.</p>
+            <p n="231">
+               <label>CCXXXII.</label> Tis difficult to love thoſe who do not at all Eſteem us, and tis almoſt as dif<g ref="char:EOLhyphen"/>ficult to Love them who Eſteem us much more then we do our ſelves.</p>
+            <pb n="61" facs="tcp:34527:35"/>
+            <p n="232">
+               <label>CCXXXIII.</label> Tis the Artifice of Pride by a feigned Submiſſion and Humility to deceive, and 'tis never more likely to deceive then under that diſguiſe.</p>
+            <p n="233">
+               <label>CCXXXIV.</label> The Accent of the Country where a Man was born, continues in the mind as well as in the Language.</p>
+            <p n="234">
+               <label>CCXXXV.</label> Tis true of certain good qualitys, as it is of the ſenſes, that thoſe who are altogether without them, cannot com<g ref="char:EOLhyphen"/>prehend them.</p>
+            <p n="235">
+               <label>CCXXXVI.</label> If there be any Man who in no Action of his Life, and in none of his qualitys did ever appear Ridiculous, tis
+<pb n="62" facs="tcp:34527:36"/>becauſe no Man was ever at the Pains to ſearch narrowly into him.</p>
+            <p n="236">
+               <label>CCXXXVII.</label> Some follies of other Men are as in<g ref="char:EOLhyphen"/>fectious as ſome diſeaſes.</p>
+            <p n="237">
+               <label>CCXXXVIII.</label> That which for the moſt part hin<g ref="char:EOLhyphen"/>ders us from diſcovering the bottom of our Hearts to our Friends, is not ſo much a diſtruſt of them as of our ſelves.</p>
+            <p n="238">
+               <label>CCXXXIX.</label> The Humours of our Bodies have an Ordinary and Regulated Courſe, which moves and turns our Wills without be<g ref="char:EOLhyphen"/>ing perceived, they Exerciſe Succeſſive<g ref="char:EOLhyphen"/>ly a Secret Dominion over us, and have a conſiderable part in all our Actions, though we do not know it.</p>
+            <pb n="63" facs="tcp:34527:36"/>
+            <p n="239">
+               <label>CCXL.</label> The Violences which others cauſe us, do oftentimes give us leſs trouble then thoſe which we cauſe to our ſelves.</p>
+            <p n="240">
+               <label>CCXLI.</label> Humility is the trueſt Evidence of all other Vertues, without that we con<g ref="char:EOLhyphen"/>tinue all our Faults, and they are only covered by Pride, which hides them from others, and oftentimes from our ſelves.</p>
+            <p n="241">
+               <label>CCXLII.</label> Every own knows that he ought not to talk much of his neareſt Relations, but no Man knows Sufficiently that he ought much leſs to talk of him<g ref="char:EOLhyphen"/>ſelf.</p>
+            <pb n="64" facs="tcp:34527:37"/>
+            <p n="242">
+               <label>CCXLIII.</label> There are ſome good qualities that are Faults when Natural, and others that are never perfect when they are ac<g ref="char:EOLhyphen"/>quired, <hi>viz.</hi> Our reaſon muſt teach us how to manage our Mony, truſt and Confidence, but goodneſs and courage muſt be received from Nature.</p>
+            <p n="243">
+               <label>CCXLIV.</label> There are ſome kind of Tears whereby we our ſelves may be deceived, after we have deceived others by them.</p>
+            <p n="244">
+               <label>CCXLV.</label> He is much miſtaken that thinks he Loves a Miſtris for her own ſake.</p>
+            <p n="245">
+               <label>CCXLVI.</label> To force ones ſelf to continue Faith<g ref="char:EOLhyphen"/>full
+<pb n="65" facs="tcp:34527:37"/>to one we Love is little better then Infidelity.</p>
+            <p n="246">
+               <label>CCXLVII.</label> A Man may give good Councels but cannot inſpire conduct in the Obſerva<g ref="char:EOLhyphen"/>ion of them.</p>
+            <p n="247">
+               <label>CCXLVIII.</label> Few are more often miſtaken then ſuch as cannot ſuffer to be told of their miſ<g ref="char:EOLhyphen"/>takes.</p>
+            <p n="248">
+               <label>CCXLIX</label> One is oftentimes leſs unhappy in be<g ref="char:EOLhyphen"/>ing deceived by a Perſon we Love, then to be undeceived.</p>
+            <p n="249">
+               <label>CCL.</label> He Preſerves his firſt Love a long time indeed that hath never a Se<g ref="char:EOLhyphen"/>cond.</p>
+            <pb n="64" facs="tcp:34527:38"/>
+            <p n="250">
+               <label>CCLI.</label> The moſt dangerous Folly of Old Perſons, who have been amiable, is to forget that they are ſo no longer.</p>
+            <p n="251">
+               <label>CCLII.</label> The greateſt Proof of Frindſhip is not to diſcover our failings and imperfect<g ref="char:EOLhyphen"/>ions to others but to make us ſee our own.</p>
+            <p n="252">
+               <label>CCL III.</label> We eaſily pardon thoſe Faults in our Friends which do not reſpect our ſelves.</p>
+            <p n="253">
+               <label>CCLIV.</label> Tis eaſier to know Man in general then any one Man in particular.</p>
+            <pb n="65" facs="tcp:34527:38"/>
+            <p n="254">
+               <label>CCLV.</label> We ſhould deſire very few things ar<g ref="char:EOLhyphen"/>dently, if we knew what it is we de<g ref="char:EOLhyphen"/>ſire.</p>
+            <p n="255">
+               <label>CCLVI.</label> In Frindſhip as in Love one is often<g ref="char:EOLhyphen"/>times more happy by thoſe things he is ignorant of then by thoſe he knows.</p>
+            <p n="256">
+               <label>CCLVII.</label> Shame and Jealouſie would not be ſo painful and troubleſome but that our Pride cannot aſſiſt us to ſupport them.</p>
+            <p n="257">
+               <label>CCLVIII.</label>'Twould be more to our advantage to appear as we are then to Endavour to appear otherwiſe.</p>
+            <pb n="68" facs="tcp:34527:39"/>
+            <p n="258">
+               <label>CCLIX.</label> We never deſire very earneſtly that which we deſire only according to rea<g ref="char:EOLhyphen"/>ſon.</p>
+            <p n="259">
+               <label>CCLX.</label> While the Heart is agitated by the remainders of any Paſſion, a Man is more likely to receive a new one then when he is perfectly Cured.</p>
+            <p n="260">
+               <label>CCLXI.</label> Covetouſneſs hath oftentimes very contrary effects, Multitudes Sacrifice their whole Eſtates to doubtful and diſ<g ref="char:EOLhyphen"/>tant hopes; and others deſpiſe very great advantages that are in proſpect for little intereſts that are preſent.</p>
+            <p n="261">
+               <label>CCLXII.</label> All the Conſtanty of the Philoſophers
+<pb n="69" facs="tcp:34527:39"/>was cauſed by the Neceſſity of dy<g ref="char:EOLhyphen"/>ing.</p>
+            <p n="262">
+               <label>CCLXIII.</label> To ſay that a Man Lyeth, is as much as to ſay, that he is brave towards God and a Coward towards Man.</p>
+            <p n="263">
+               <label>CCLXIV.</label> There is no Paſſion in an Humane mind that is ſo weak, but in ſome Men it Mates and Maſters the Fear of Death.</p>
+            <p n="264">
+               <label>CCLXV.</label> To be thought Secret inviteth diſ<g ref="char:EOLhyphen"/>covery, as the more cloſe Air Sucketh in the more open.</p>
+            <p n="265">
+               <label>CCLXVI.</label> He that talks all that he knows will
+<pb n="68" facs="tcp:34527:40"/>certainly talk ſomewhat which he knows not.</p>
+            <p n="266">
+               <label>CCLXVII.</label> No Man can be ſecret unleſs he uſeth diſſimulation, for a bare Silence in ſome caſes diſcovers as much as Speech.</p>
+            <p n="267">
+               <label>CCLXIII.</label> By diſſimulation ſometimes you may better diſcover another Mans mind, for to him that ſeems open and free, will another be ſo.</p>
+            <p n="268">
+               <label>CCLXIX.</label> The Care of the publick and of poſ<g ref="char:EOLhyphen"/>terity is many times moſt in them that have no poſterity.</p>
+            <p n="269">
+               <label>CCLXX.</label> Wives are young Mens Miſtreſſes,
+<pb n="69" facs="tcp:34527:40"/>companions for middle Age, and Old Mens Nurſes.</p>
+            <p n="270">
+               <label>CCLXXI.</label> The reaſon why new Riſers are En<g ref="char:EOLhyphen"/>vied by Men in height, is becauſe the diſ<g ref="char:EOLhyphen"/>tance is altered, and like the deceipt of the Eye, that when others come on, they themſelves go back.</p>
+            <p n="271">
+               <label>CCLXXII.</label> Perſons of VVorth and Merit are moſt Envied when their Fortune conti<g ref="char:EOLhyphen"/>nues long, for by that time, though the Vertue be the ſame, it hath not the ſame Luſtre, Freſh-Men growing up that darken it.</p>
+            <p n="272">
+               <label>CCLXXIII.</label> Great Spirits and great Buſineſs keep out Love.</p>
+            <pb n="72" facs="tcp:34527:41"/>
+            <p n="273">
+               <label>CCLXXIV.</label> Love is always rewarded either with its reciproque or with an inward and Secret Contempt.</p>
+            <p n="274">
+               <label>CCLXXV.</label> Great Men are the firſt that find their own Greifs, but the laſt that find their own Faults.</p>
+            <p n="275">
+               <label>CCLXXVI.</label> The reaſon why boldneſs doth ſuch Feats is, becauſe the greateſt part are ſhallow in Judgment or weak in courage and wiſe Men have their weak times.</p>
+            <p n="276">
+               <label>CCLXXVII.</label> The mind of Man is more cheared and refreſhed by profiting in ſmal things then by ſtanding at a Stay in great, for he that uſeth to go forward and findeth a Stop, falleth out of his own Favour.</p>
+            <pb n="73" facs="tcp:34527:41"/>
+            <p n="277">
+               <label>CCLXXVIII.</label> More danger have deceived Men then forced them.</p>
+            <p n="278">
+               <label>CCLXXIX.</label> It is a Point of cunning to wait uopn him, with whom you ſpeak, with your Eye.</p>
+            <p n="279">
+               <label>CCLXXX.</label> When you have any thing to obtain of preſent diſpatch, amuſe the party with ſome other diſcouſe that he may not be too much awake to make ob<g ref="char:EOLhyphen"/>jections, or move it when the party is in haſt and cannot ſtay to conſider adviſed<g ref="char:EOLhyphen"/>ly of what is moved.</p>
+            <p n="280">
+               <label>CCLXXXI.</label> If a Man would croſs a Buſineſs, that he doubts ſome other would hand<g ref="char:EOLhyphen"/>ſomly
+<pb n="74" facs="tcp:34527:42"/>and effectually move, let him pretend to wiſh it well, and move it himſelf in ſuch ſort as may foyl it.</p>
+            <p n="281">
+               <label>CCLXXXII.</label> To mention a thing deſired at par<g ref="char:EOLhyphen"/>ting, as almoſt forgot, or offer it on a Queſtion asked, which you may lay a bait for in your Diſcourſe, is many times a good peice of prudence.</p>
+            <p n="282">
+               <label>CCLXXXIII.</label> In Buſineſs, the keeping cloſe to the matter, and not taking of it too much at once, procureth diſpatch.</p>
+            <p n="283">
+               <label>CCLXXXIV.</label> He that will keep but of even hand, his ordinary expences ought to be but to the half of his Receipts, and if he think to wax Rich, but to the Third part.</p>
+            <pb n="75" facs="tcp:34527:42"/>
+            <p n="284">
+               <label>CCLXXXV.</label> There is nothing makes a Man to ſuſpect much, more than to know but little.</p>
+            <p n="285">
+               <label>CCLXXXVI.</label> Honour hath Three things in it, the vantage ground to do good, the acceſs to Kings and principal Perſons, and the raiſing a Mans own Fortunes.</p>
+            <p n="286">
+               <label>CCLXXXVII.</label> If a Man that is not perfect be ever in Practice, he will practice his Errours as well as his Abilities, and induce one habit of both, and 'tis to be helped but by a ſeaſonable intermiſſion.</p>
+            <p n="287">
+               <label>CCLXXXVIII.</label> The Folly of one Man is the Fortune of another, for no Man proſpers ſo ſuddenly as by anothers Errours.</p>
+            <pb n="76" facs="tcp:34527:43"/>
+            <p n="288">
+               <label>CCLXXXIX.</label> A little of the Fool, and not too much of the Honeſt, are generally two fortunate properties.</p>
+            <p n="289">
+               <label>CCXC.</label> It is many times better not to deal by Speech but by Letter, and by the Mediation of a Third then by a Mans ſelf.</p>
+            <p n="290">
+               <label>CCXCI.</label> Small matters win great Commen<g ref="char:EOLhyphen"/>dation, becauſe are often in uſe and note.</p>
+            <p n="291">
+               <label>CCXCII.</label> It is a good precept in ſeconding another to add ſomething of your own, as if you agree with an opinion, let it be with a diſtinction; if you'l follow
+<pb n="77" facs="tcp:34527:43"/>his motion, let it be on condition, if approve his Council, let it be with al<g ref="char:EOLhyphen"/>ledging ſome farther reaſon.</p>
+            <p n="292">
+               <label>CCXCIII.</label> Too much magnifying of a Perſon or Thing doth irritate contradiction and procures envy and ſcorn.</p>
+            <p n="293">
+               <label>CCXCIV.</label> That which keeps a matter ſafe and intire is good, but that which is deſti<g ref="char:EOLhyphen"/>tute and unprovided of a retreat, is bad.</p>
+            <p n="294">
+               <label>CCXCV.</label> He that would not do a thing, if he thought it would not be known, doth not do it for truth or goodneſs, but for opinion ſake.</p>
+            <pb n="76" facs="tcp:34527:44"/>
+            <p n="295">
+               <label>CCXCVI.</label> Good things never appear in their full Beauty till they turn their back and are going away.</p>
+            <p n="296">
+               <label>CCXCVII.</label> That which a Man hath procured by his own default, is a greater miſ<g ref="char:EOLhyphen"/>cheif then what is laid on him by ano<g ref="char:EOLhyphen"/>ther, ſo that which a Man gets by his own Induſtry, is a greater good then that which comes by another Mans curteſie or the indulgence of Fortune.</p>
+            <p n="297">
+               <label>CCXCVIII.</label> He hath his Work half done, who ere hath well begun.</p>
+            <p n="298">
+               <label>CCXCIX.</label> Deſpair of Cure is worſe than the Infirmity.</p>
+            <pb n="77" facs="tcp:34527:44"/>
+            <p n="299">
+               <label>CCC.</label> The more Perpendicular a danger hangs over our head, the leſs its ſhadow grows.</p>
+            <p n="300">
+               <label>CCCI.</label> By diverſe means Men come to a like end, as to appeaſe one offended, ſome do it by Submiſſion, others by Cou<g ref="char:EOLhyphen"/>rage and Reſolution.</p>
+            <p n="301">
+               <label>CCCII.</label> A Thouſand by ways miſs the mark, one only hits the ſame.</p>
+            <p n="302">
+               <label>CCCIII.</label> A Man may diſcover himſelf more by Company, occaſion and chance, then he can do by a bare reflective Speech.</p>
+            <pb n="80" facs="tcp:34527:45"/>
+            <p n="303">
+               <label>CCCIV.</label> The reaſon why ſome Men chuſe ra<g ref="char:EOLhyphen"/>ther to ſpeak of any other Trade then their own, is becauſe they ſuppoſe it to be ſo much new Reputation got<g ref="char:EOLhyphen"/>ten.</p>
+            <p n="304">
+               <label>CCCV.</label> That which makes timrouſneſs ſo ill a quality, is becauſe the Party many times fears that which ſhould help.</p>
+            <p n="305">
+               <label>CCCVI.</label> No Judgment to be made of a Mer<g ref="char:EOLhyphen"/>chants Eſtate till after his Death.</p>
+            <p n="306">
+               <label>CCCVII.</label> The greateſt Scholars are not always the wiſeſt Men, becauſe their own wit droops and diminiſhes to make room for others.</p>
+            <pb n="81" facs="tcp:34527:45"/>
+            <p n="307">
+               <label>CCCVIII.</label> Great Men have a Preheminence a<g ref="char:EOLhyphen"/>bove us in every thing, even to a breach of good manners, and their other good qualities are their licence.</p>
+            <p n="308">
+               <label>CCCIX.</label> At the upper end of a Table, Trifles are ſo much diſcourſt, of that many a good diſcourſe at the lower end is loſt, by the Ceremony of being placed higheſt.</p>
+            <p n="309">
+               <label>CCCX.</label> Glory and Curioſity are the Scourges of an Humane Soul.</p>
+            <p n="310">
+               <label>CCCXI.</label> Nothing too much, is a Rule as uſeful and as generally true as moſt.</p>
+            <pb n="82" facs="tcp:34527:46"/>
+            <p n="311">
+               <label>CCCXII.</label> In general converſation it may be adviſable to love another as if you ſhould one day hate him again, and hate him as if you ſhould Love him again.</p>
+            <p n="312">
+               <label>CCCXIII.</label> Fortune is oftentimes met withal in purfuite of Reaſon.</p>
+            <p n="313">
+               <label>CCCXIV.</label> There be ſuch as adviſe to nothing but what they truſt themſelves can imi<g ref="char:EOLhyphen"/>ate.</p>
+            <p n="314">
+               <label>CCCXV.</label> It ſeems a common fault, to be both more conſident and more terrified by things unſeen, hidden, and unknown.</p>
+            <pb n="83" facs="tcp:34527:46"/>
+            <p n="315">
+               <label>CCCXVI.</label> No Wind makes for him, that hath no intended Port to Sail unto.</p>
+            <p n="316">
+               <label>CCCXVII.</label> All actions more than ordinary and common, are ſubject to ſiniſter inter<g ref="char:EOLhyphen"/>pretations.</p>
+            <p n="317">
+               <label>CCCXVIII.</label> There is no recompence falſe unto vertue, how great ſoever it be, if it once have paſs't into cuſtom.</p>
+            <p n="318">
+               <label>CCXIX.</label> A word ill taken defaceth the merit of many years ſervice.</p>
+            <p n="319">
+               <label>CCCXX.</label> Need and Want is much more un<g ref="char:EOLhyphen"/>ſeemly, and much more hard to be
+<pb n="84" facs="tcp:34527:47"/>indured in Women then in Men.</p>
+            <p n="320">
+               <label>CCCXXI.</label> Vertue provoked adds much to it ſelf.</p>
+            <p n="321">
+               <label>CCCXXII.</label> The very name of Vertue preſuppo<g ref="char:EOLhyphen"/>ſeth difficulty, and infers a reſiſtance, and cannot well be exerciſed without an Enemy.</p>
+            <p n="322">
+               <label>CCCXXIII.</label> Want of Apprehenſion and Stupidi<g ref="char:EOLhyphen"/>ty do ſometimes counterfeit vertuous effects.</p>
+            <p n="323">
+               <label>CCCXXIV.</label> It is better to learn and know more than we need, then nothing at all.</p>
+            <p n="324">
+               <label>CCCXXV.</label> There is nothing can be ſpoken ſo
+<pb n="85" facs="tcp:34527:47"/>abſurdly which hath not been ſo.</p>
+            <p n="325">
+               <label>CCCXXVI.</label> No Man in the World ſo croſs and humourſom, but there is ſomething he delights in, whereby you may win him.</p>
+            <p n="326">
+               <label>CCCXXVII.</label> He who judgeth by apparences, judgeth by a thing different from the Subject.</p>
+            <p n="327">
+               <label>CCCXXVIII.</label> Rareneſs and difficulty give an eſteem to things, and increaſe Mens deſire af<g ref="char:EOLhyphen"/>ter them.</p>
+            <p n="328">
+               <label>CCCXXIX.</label> Nothing in the World ſo popular and generally amiable, as goodneſs is.</p>
+            <pb n="86" facs="tcp:34527:48"/>
+            <p n="329">
+               <label>CCCXXX.</label> The finer headed and more ſubtile brained a Man is, the more he is hated and ſuſpected, if once the opinion of honeſty be taken from him.</p>
+            <p n="330">
+               <label>CCCXXXI.</label> Of all the Pleaſures and Goods we have, there is none exempted from ſome evil and incommodity.</p>
+            <p n="331">
+               <label>CCCXXXII.</label> That which we often ſee we wonder not at, though we know not why it is done, and we call that againſt nature, which is only againſt cuſtom.</p>
+            <p n="332">
+               <label>CCCXXXIII.</label> An honeſt Man may have falſe opini<g ref="char:EOLhyphen"/>ons, and a wicked Perſon may preach truths, yea ſuch as he beleives not.</p>
+            <pb n="87" facs="tcp:34527:48"/>
+            <p n="333">
+               <label>CCCXXXIV.</label> So much are Men enamoured of this miſerable Life, that no condition is ſo poor but they will accept, ſo they may continue in the ſame.</p>
+            <p n="334">
+               <label>CCCXXXV.</label> He who will provide for every thing provides for nothing.</p>
+            <p n="335">
+               <label>CCCXXXVI.</label> Many Profeſſions and Trades ſubſiſt and are grounded only upon publick abuſes and popular errours.</p>
+            <p n="336">
+               <label>CCCXXXVII.</label> No Man living is free from ſpeaking fooliſh things.</p>
+            <p n="337">
+               <label>CCCXXXVIII.</label> Who is unfaithful to himſelf, may
+<pb n="88" facs="tcp:34527:49"/>be excuſed if he be faithleſs to his Maſter.</p>
+            <p n="338">
+               <label>CCCXXXIX.</label> Malice ſucks up the greateſt part of her own Venom, and there with impoy<g ref="char:EOLhyphen"/>ſoneth her ſelf.</p>
+            <p n="339">
+               <label>CCCXL.</label> The conſequence of all deſigns con<g ref="char:EOLhyphen"/>ſiſts in their ſeaſons; for occaſions paſs, and matters change inceſſantly.</p>
+            <p n="340">
+               <label>CCCXLI.</label> He may well walk a foot that leads his Horſe by the Bridle.</p>
+            <p n="341">
+               <label>CCCXLII.</label> To divert a Man from importunate imaginations, and the inſinuation of particular conceits, there's no better way then to have recourſe unto books.</p>
+            <pb n="89" facs="tcp:34527:49"/>
+            <p n="342">
+               <label>CCCXLIII.</label> No Man truſts a Drunkard with his Secrets, for he that can't keep his own will never conceal anothers.</p>
+            <p n="343">
+               <label>CCCXLIV.</label> A little thing will divert when a greater and of more weight will not.</p>
+            <p n="344">
+               <label>CCCXLV.</label> Wiſdom hath her exceſſes, and hath no leſs need of moderation then folly.</p>
+            <p n="345">
+               <label>CCCXLVI.</label> Profitable thoughts, the more full and ſolid they are, the more cumber<g ref="char:EOLhyphen"/>ſome and heavy to the mind of Man.</p>
+            <p n="346">
+               <label>CCCXLVII.</label> No continuance of time, no favour of Prince, no Office, no Vertue, nor
+<pb n="90" facs="tcp:34527:50"/>any Wealth can make a Clown become a Gentleman.</p>
+            <p n="347">
+               <label>CCCXLVIII.</label> It is no longer time to wince what one hath put on the Shackles.</p>
+            <p n="348">
+               <label>CCCXLIX.</label> The obligation of a benefit hath wholly reference unto the will of him that giveth.</p>
+            <p n="349">
+               <label>CCCL.</label> It is againſt the nature of Love, not to be violent, and againſt the condi<g ref="char:EOLhyphen"/>tion of violence, to be conſtant.</p>
+            <p n="350">
+               <label>CCCLI.</label> He who hath once been a very fool, ſhall at no time prove very wiſe.</p>
+            <pb n="91" facs="tcp:34527:50"/>
+            <p n="351">
+               <label>CCCLII.</label> Whoſoever hath his mind on taking, thinks no more of what he hath taken, Covetouſneſs hath nothing ſo proper as to be ungrateful.</p>
+            <p n="352">
+               <label>CCCLIII.</label> Moſt Men are better inſtructed by contrarlety then by ſimilitude, and more by eſcaping the bad then following the good; therefore <hi>Cato</hi> ſaid, wiſe Men have more to learn of fools, then fools of wiſe Men.</p>
+            <p n="353">
+               <label>CCCLIV.</label> Tis impoſſible for to Treat quickly and diſcourſe in any order with a Fool,</p>
+            <p n="354">
+               <label>CCCLV.</label> A judgment is not to be made of Councel, or Advice by the Event.</p>
+            <pb n="92" facs="tcp:34527:51"/>
+            <p n="355">
+               <label>CCCLVI.</label> It is an ill ſeeming thing for Men in jeſt to Bite or in ſport to Strike one ano<g ref="char:EOLhyphen"/>ther.</p>
+            <p n="356">
+               <label>CCCLVII.</label> The meaſure of Mony is limited, not by the Eſtimate of Wealth or Place, but by the Furniture and manner of Li<g ref="char:EOLhyphen"/>ving.</p>
+            <p n="357">
+               <label>CCCLVIII.</label> Many teach others to deceive, while they fear to be deceived, and give them Juſt cauſe to offend by fuſpecting them unjuſtly.</p>
+            <p n="358">
+               <label>CCCLIX.</label> Preparation gives more to hope, then it brings with it, and he that would pleaſe, hath nothing ſo great an Impediment, as expectation.</p>
+            <pb n="93" facs="tcp:34527:51"/>
+            <p n="359">
+               <label>CCCLX.</label> Nothing is ſo dear, as what is given, for the Will of the donee ſtands high<g ref="char:EOLhyphen"/>ly indebted for fear of being ungrate<g ref="char:EOLhyphen"/>ful.</p>
+            <p n="360">
+               <label>CCCLXI.</label> It is certainly worth while, to change a bad Eſtate for an uncertain, and there can be no loſs by the bargain.</p>
+            <p n="361">
+               <label>CCCLXII.</label> To be always complaining, is the way never to be moaned and ſeldom pi<g ref="char:EOLhyphen"/>tied, for he that makes himſelf ſeem dead while alive, is Subject to be ac<g ref="char:EOLhyphen"/>compted alive when dying.</p>
+            <p n="362">
+               <label>CCCLXIII.</label> A generous and free minded con<g ref="char:EOLhyphen"/>feſſion
+<pb n="94" facs="tcp:34527:52"/>doth diſable a reproach, and diſ<g ref="char:EOLhyphen"/>armes an Injury</p>
+            <p n="363">
+               <label>CCCLXIV.</label> Sometimes it is good choice not to chooſe at all.</p>
+            <p n="364">
+               <label>CCCLXV.</label> Each cuſtom hath its reaſon.</p>
+            <p n="365">
+               <label>CCCLXVI.</label> There is nothing ſo good and benefici<g ref="char:EOLhyphen"/>al that yeilds profit in a glance, or be<g ref="char:EOLhyphen"/>ing ſlightly paſſed over will do you much Service.</p>
+            <p n="366">
+               <label>CCCLXVII.</label> Pleaſure it felf is Pain in its height.</p>
+            <p n="367">
+               <label>CCCLXVIII.</label> We muſt live in, and by the World,
+<pb n="95" facs="tcp:34527:52"/>and ſuch as we find it, ſo we muſt uſe it.</p>
+            <p n="368">
+               <label>CCCLXIX.</label> He will endure a fall, that cannot bear the Starts on't, utter diſappoint<g ref="char:EOLhyphen"/>ment Ruins that Man which little croſs Accidents do Stagger.</p>
+            <p n="369">
+               <label>CCCLXX.</label> If we direct affairs at the begginning, we hold them at our Mercy, but if once undertaken, they guide and tranſ<g ref="char:EOLhyphen"/>port us, and we follow them.</p>
+            <p n="370">
+               <label>CCCLXXI.</label> Such as by baſhfulneſs are apt to grant whatſoever is demanded, are as prone afterward to Recant and break their Word, tis better therefore
+<pb n="96" facs="tcp:34527:53"/>to attempt Coldly and purſue Hotly then <hi>è contra.</hi>
+            </p>
+            <p n="371">
+               <label>CCCLXXII.</label> To be Proud of every profitable and Innocent Action is fit only for Fools and Madmen to whom tis extraordi<g ref="char:EOLhyphen"/>nary and rare.</p>
+            <p n="372">
+               <label>CCCLXXIII.</label> Men generally give moſt Credit to things they underſtand not, and the reaſon is becauſe they would not be thought to have leſs Wit then the Par<g ref="char:EOLhyphen"/>ty who propoſee it.</p>
+            <p n="373">
+               <label>CCCLXXIV.</label> An Injury (though the Damage be leſs) undoubtedly cauſes more greif and ſharpneſs then a loſs.</p>
+            <p n="374">
+               <label>CCCLXXV.</label> He that keeps himſelf in his own
+<pb n="97" facs="tcp:34527:53"/>Power, is the moſt Powerful of any.</p>
+            <p n="375">
+               <label>CCCLXXVI.</label> He greives more than he need, that grieves before that he needs.</p>
+            <p n="376">
+               <label>CCCLXXVII.</label> It is much eaſier to ſpeak as <hi>Ariſtotle</hi> and live as <hi>Coeſar,</hi> then ſpeak and live as <hi>Socrates.</hi>
+            </p>
+            <p n="377">
+               <label>CCCLXXVIII.</label> We cannot err in following Nature</p>
+            <p n="378">
+               <label>CCCLXXIX.</label> Words reported again, as they have another ſound, ſo generally they have another ſenſe.</p>
+            <p n="379">
+               <label>CCCLXXX.</label> There are more ways to the Wood
+<pb n="98" facs="tcp:34527:54"/>then one, a balk in one track ought not to diſcourage further and other at<g ref="char:EOLhyphen"/>tempts.</p>
+            <p n="380">
+               <label>CCCLXXXI.</label> That which makes Company ſo in<g ref="char:EOLhyphen"/>fluencial, is becauſe tis a kind of re<g ref="char:EOLhyphen"/>proach, not to do or not to dare, what one ſees his Companions do or dare.</p>
+            <p n="381">
+               <label>CCCLXXXII.</label> Many times 'tis prudence gently to obey and endure the Laws of our con<g ref="char:EOLhyphen"/>dition, ſtrugling againſt that we can<g ref="char:EOLhyphen"/>not overcome makes it more painful and troubleſome.</p>
+            <p n="382">
+               <label>CCCLXXXIII.</label> The greatneſs of a Mans mind con<g ref="char:EOLhyphen"/>ſiſts not ſo much in lofty attempts as in knowing how to range direct and cir<g ref="char:EOLhyphen"/>cumſcribe it ſelf.</p>
+            <pb n="99" facs="tcp:34527:54"/>
+            <p n="383">
+               <label>CCCLXXXIV.</label> He that Husbands his time beſt, will find very much of it employ'd idely.</p>
+            <p n="384">
+               <label>CCCLXXXV.</label> He that walks upon Stilts muſt uſe his own Legs, and the greateſt helps ſignifie nothing without a Mans own Prudence, and conduct to uſe them.</p>
+            <p n="385">
+               <label>CCCLXXXVI.</label> A Man may be known much by his Garment, by his Countenance, by his Laughter, and by his Going.</p>
+            <p n="386">
+               <label>CCCLXXXVII.</label> He that keepeth his Ignorance ſecret doth much better than he that hideth his Wiſdom.</p>
+            <pb n="100" facs="tcp:34527:55"/>
+            <p n="387">
+               <label>CCCLXXXVIII.</label> Tis folly to contradict an Inferiour, for there always ariſes more ſhame in being overcome by him, then Honour in a Victory.</p>
+            <p n="388">
+               <label>CCCLXXXIX.</label> Many Men complain when a Houſe or Room is dark, when the fault is only in their own Eyes.</p>
+            <p n="389">
+               <label>CCCXC.</label> No Drunkard would willingly have his Wife, Child, or Servant ſuch.</p>
+            <p n="390">
+               <label>CCCXCI.</label> There's nothing more odious and diſtaſteful to moſt Men then to be cen<g ref="char:EOLhyphen"/>ſured and reprehended; he therefore who doth that leaſt, doth generally oblige moſt.</p>
+            <pb n="101" facs="tcp:34527:55"/>
+            <p n="391">
+               <label>CCXCII.</label> He that will oblige all, muſt abaſe himſelf to thoſe above him, ſubmit to his equals, and curteouſly equal him<g ref="char:EOLhyphen"/>ſelf to thoſe beneath him.</p>
+            <p n="392">
+               <label>CCCXCIII.</label> He that ſpeaks any thing untrue to his own advantage, ſhall be accounted both vain and a lyer; the lye renders him odious, and the vanity rediculous.</p>
+            <p n="393">
+               <label>CCCLXCIV.</label> To be obſtinate in any Argument which touches the Profeſſion of him you converſe with, will certainly cre<g ref="char:EOLhyphen"/>ate a diſtaſte, for by preſuming your ſelf in the right, you make a reflection on him as ignorant, which is always reckoned injurious.</p>
+            <pb n="102" facs="tcp:34527:56"/>
+            <p n="394">
+               <label>CCCXCV.</label> Deſs and Carriage generally gains more reſpect, then Riches and Ho<g ref="char:EOLhyphen"/>nour.</p>
+            <p n="395">
+               <label>CCCXCVI.</label> Fear ſways more Men and Influences to more venturous exploits then hope.</p>
+            <p n="396">
+               <label>CCCXCVII.</label> All Extrams are generally ſhort lived.</p>
+            <p n="397">
+               <label>CCCXCVIII.</label> Invention is a ſolitary thing, and the reſult of one Mans thoughts, as true Judgment is of many, therefore in all Companies let one Man propoſe, and the reſt judge.</p>
+            <pb n="103" facs="tcp:34527:56"/>
+            <p n="398">
+               <label>CCCXCIX.</label> Intereſt is generally ſtronger then love, and yet Friendſhip grounded on Intereſt is little worth, for remove the advantage and your Friend is fled.</p>
+            <p n="399">
+               <label>CCCC.</label> To conclude, the precepts of Pru<g ref="char:EOLhyphen"/>dence may eaſier be put in writing then in practice, <hi>hic labor hoc opus.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
